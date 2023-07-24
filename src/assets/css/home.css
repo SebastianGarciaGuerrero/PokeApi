@@ -1,0 +1,12 @@
+.container-home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px; /* Ajusta esto según tus necesidades para centrar verticalmente */
+  }
+  
+  .logo {
+    max-width: 200px; /* Ajusta el tamaño de la imagen */
+  }
+  
